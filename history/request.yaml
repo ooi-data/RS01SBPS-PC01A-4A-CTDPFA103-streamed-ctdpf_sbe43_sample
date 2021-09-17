@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: RS01SBPS-PC01A-4A-CTDPFA103-streamed-ctdpf_sbe43_sample
 last_request: '2021-09-17T22:44:35.446091Z'
 response: https://raw.githubusercontent.com/ooi-data/RS01SBPS-PC01A-4A-CTDPFA103-streamed-ctdpf_sbe43_sample/main/history/response.json
-status: pending
+status: success
