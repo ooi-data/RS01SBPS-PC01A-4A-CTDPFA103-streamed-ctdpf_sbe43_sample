@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS01SBPS-PC01A-4A-CTDPFA103-streamed-ctdpf_sbe43_sample
 data_stream: RS01SBPS-PC01A-4A-CTDPFA103-streamed-ctdpf_sbe43_sample
 end_date: '2018-10-10T23:59:59.628Z'
-last_updated: '2021-12-22T04:50:08.704568Z'
+last_updated: '2021-12-22T04:52:32.873004'
 start_date: '2018-09-13T00:00:00.838Z'
-status: pending
+status: success
